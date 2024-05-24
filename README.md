@@ -1,4 +1,4 @@
-<h1 align = "justify"> Móveis Planejados 📦</h1>
+<h1 align = "justify"> Páginas Web</h1>
 
 Página Web básica desenvolvida:
 
