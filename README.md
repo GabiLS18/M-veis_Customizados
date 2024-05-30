@@ -7,4 +7,4 @@ Página Web básica desenvolvida:
 
 <strong>Tela:</strong>
 
-<img src="img/Projeto01.png" id="balls" alt="Bolinhas laranjadas no canto direto inferior da tela" />
+<img src="moveis_customizados/img/Projeto01.png" id="balls" alt="Bolinhas laranjadas no canto direto inferior da tela" />

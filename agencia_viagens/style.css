@@ -1,0 +1,60 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center; 
+ }
+ 
+ #hero {
+    width: 626px;
+    margin: 0 auto 32px; /* 0 top, auto right, bottom 72px */
+ 
+ }
+ 
+ #hero img {
+    margin-bottom: 32px;
+ }
+ 
+ h1 {
+    font-family: "Dosis", sans-serif;
+    font-size: 32px;
+    line-height: 32px;
+    font-weight:normal;
+ 
+    margin-bottom: 16px;
+ 
+ }
+ 
+ h1 span {
+    font-weight: bold;
+    color: #EE24FF;
+ 
+ }
+ 
+ span,
+ a {
+    font-weight: bold;
+    color: #3F3D56;
+    
+ }
+ 
+ p, #footer{
+    color: #3F3D56;
+    font-size: 15px;
+    line-height: 28px;
+ }
+ 
+  #footer a + a {
+     margin-left: 28px;
+ }
+ /* a + a regra é: pegar o a anterior a o outro e aplicar a margem */
+ 
+ .line { 
+    width: 391px;
+    height: 0px;
+    margin: 0 auto 8px;
+ 
+    border: 1px solid #ECEFF2;
+ }
+ 
+ #onda {
+   
+ }
